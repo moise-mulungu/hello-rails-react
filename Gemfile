@@ -5,6 +5,7 @@ ruby "3.1.2"
 # Webpacker and React
 gem "webpacker"
 gem "react-rails"
+gem "rack-cors"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.3", ">= 7.0.3.1"
